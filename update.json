@@ -1,7 +1,7 @@
 {
   "Configurations": [
     {
-      "Config": "FAN",
+      "Config": "LIGHT",
       "Version": "5.0.0",
       "URL": "https://raw.githubusercontent.com/sudeeparalimattimath-del/esp32_ota/blob/main/app.ino.bin"
     }
