@@ -3,7 +3,7 @@
     {
       "Config": "LIGHT",
       "Version": "5.0.0",
-      "URL": "https://raw.githubusercontent.com/sudeeparalimattimath-del/esp32_ota/blob/main/app.ino.bin"
+      "URL": "https://raw.githubusercontent.com/sudeeparalimattimath-del/esp32_ota/main/app.ino.bin"
     }
   ]
 }
