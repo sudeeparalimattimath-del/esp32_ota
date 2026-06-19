@@ -1,1 +1,9 @@
-
+{
+  "Configurations": [
+    {
+      "Config": "FAN",
+      "Version": "7.0.0",
+      "URL": "https://raw.githubusercontent.com/Somujavooru/esp32-ota/main/app2.ino.doitESP32devkitV1.bin"
+    }
+  ]
+}
